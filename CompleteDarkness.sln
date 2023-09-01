@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CompleteDarkness", "CompleteDarkness.csproj", "{2070643B-010F-4FB4-8623-776781B774D6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2070643B-010F-4FB4-8623-776781B774D6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2070643B-010F-4FB4-8623-776781B774D6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2070643B-010F-4FB4-8623-776781B774D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2070643B-010F-4FB4-8623-776781B774D6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
